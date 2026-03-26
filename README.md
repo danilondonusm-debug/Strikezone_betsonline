@@ -1,4 +1,5 @@
-# StrikeZone — Sports Betting Platform | Database & Analytics Project
+# StrikeZone — Sports Betting Platform 
+## Database & Analytics Project
 
 End-to-end data project for a fictional Colombian online sports betting platform: relational database design, Python data seeding, and business intelligence dashboards.
 
