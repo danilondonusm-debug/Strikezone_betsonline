@@ -175,4 +175,4 @@ Córdoba, Colombia
 
 ### Andrés García Sosa
 Engineer & Data Analyst,
-Bogotá, Colombia
+Cucuta, Colombia
