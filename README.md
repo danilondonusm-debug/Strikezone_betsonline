@@ -17,8 +17,7 @@ StrikeZone is a simulated online sports betting platform designed as an academic
 
 
 # Business Context
-The Colombian online sports betting market is one of the most dynamic in Latin America, regulated by Coljuegos since 2017. StrikeZone is positioned as a premium platform targeting high-value users with above-average betting tickets, seeking to differentiate through data analytics.
-This project simulates the platform's operational data and answers key business questions around user behavior, financial performance, and market activity.
+The Colombian online sports betting market is one of the most dynamic in Latin America. In this context, StrikeZone positions itself as a premium platform targeting high-value users with above-average bets, and seeks to differentiate itself through data-driven business solutions. This project simulates betting market data—standardized, optimized, and analyzed using tools such as Python and MySQL—and answers key business questions related to user behavior, financial results, and market activity.
 
 ## Tech Stack
 LayerToolRelational DatabaseMySQL 8.0Data SeedingPython 3.13 · Faker · mysql-connectorBusiness IntelligencePower BI DesktopVersion ControlGit / GitHub
